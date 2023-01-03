@@ -1,0 +1,2 @@
+# ezu
+a repository
